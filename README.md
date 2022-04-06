@@ -55,7 +55,7 @@ A curated list of books & lectures on the most important topics of computer scie
 [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src)<br>
 Important algorithms in JS. Maybe not first priority for the typical web developer applying in the EU, but interesting nonetheless.
 
-## Operating Systems
+## Operating Systems / System Administration
 
 [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)<br>
 Very accessible book teaching OS basics. Online version is free
@@ -65,6 +65,9 @@ A thorough (maybe even a bit eclectic) guide to Linux
 
 [The Linux Command Line](https://linuxcommand.org/tlcl.php)<br>
 Brilliant introduction to the shell
+
+[Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)<br>
+In my opinion the best hands-on tutorials for managing a VPS. Think "Setup Docker and Docker Compose on Ubuntu 20.04"
 
 ## Low Level(ish) Stuff
 
