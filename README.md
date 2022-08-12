@@ -1,5 +1,20 @@
 A subjective list of web development & software engineering resources
 
+## Table of Contents
+
+-   [Web Development: Getting Started](#web-development-getting-started)
+-   [Web Development: General Resources](#web-development-general-resources)
+-   [Web Development: Front End](#web-development-front-end)
+-   [Web Development: Back End](#web-development-back-end)
+-   [Web Development: Security](#web-development-security)
+-   [General Software Engineering](#general-software-engineering)
+-   [Computer Science](#computer-science)
+-   [Operating Systems / System Administration](#operating-systems--system-administration)
+-   [Low Level(ish) Stuff](#low-levelish-stuff)
+-   [Reading Code](#reading-code)
+-   [Scene, News, Blogs, Podcasts](#scene-news-blogs-podcasts)
+-   [Nerdy Stuff](#nerdy-stuff)
+
 ## Web Development: Getting Started
 
 [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
@@ -16,9 +31,6 @@ Nice overview of the workings of the internet & the low level web stack in gener
 
 [Book: High Performance Browser Networking](https://hpbn.co/)<br>
 What you need to know about the underlying networking techniques when approaching web development
-
-[Book: System Design Interview – An insider's guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)<br>
-High-level considerations for designing scalable software systems in cloud environments
 
 [Awesome Lists](https://github.com/sindresorhus/awesome)<br>
 A list with important & inspiring libraries & frameworks, by a prolific developer
@@ -46,6 +58,17 @@ One of the few youtubers focused on backend. Long, deep talks about everyday bac
 
 [OWASP](https://owasp.org/www-project-top-ten/)<br>
 Web dev vulnerability top 10 list. A good overview of what to look out for, including various solutions
+
+## General Software Engineering
+
+[Book: System Design Interview – An insider's guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)<br>
+High-level considerations for designing scalable software systems in cloud environments
+
+[Screencasts: Destroy All Software](https://www.destroyallsoftware.com/screencasts)<br>
+Screencasts about development in general, building stuff from scratch etc.
+
+[Course: Execute Program](https://www.executeprogram.com/)<br>
+By the creator of DAS (see above). Well thought out curricula
 
 ## Computer Science
 
@@ -105,14 +128,6 @@ What's there to learn if you dive into a famous library's code
 
 [Improve Your JavaScript Knowledge By Reading Source Code](https://www.smashingmagazine.com/2019/07/javascript-knowledge-reading-source-code/)<br>
 Stresses the importance of reading other people's code
-
-## General Software Engineering
-
-[Screencasts: Destroy All Software](https://www.destroyallsoftware.com/screencasts)<br>
-Screencasts about development in general, building stuff from scratch etc.
-
-[Course: Execute Program](https://www.executeprogram.com/)<br>
-By the creator of DAS (see above). Well thought out curricula
 
 ## Scene, News, Blogs, Podcasts
 
