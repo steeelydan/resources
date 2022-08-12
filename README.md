@@ -30,7 +30,7 @@ Nice overview of the workings of the internet & the low level web stack in gener
 ## Web Development: General Resources
 
 [Book: High Performance Browser Networking](https://hpbn.co/)<br>
-What you need to know about the underlying networking techniques when approaching web development
+What you need to know about the underlying networking techniques when approaching web development. Seems to be freely accessible online
 
 [Awesome Lists](https://github.com/sindresorhus/awesome)<br>
 A list with important & inspiring libraries & frameworks, by a prolific developer
@@ -93,7 +93,7 @@ Very accessible book teaching OS basics. Online version is free
 A thorough (maybe even a bit eclectic) guide to Linux
 
 [Book: The Linux Command Line](https://linuxcommand.org/tlcl.php)<br>
-Brilliant introduction to the shell
+Brilliant introduction to the shell. Freely accessible!
 
 [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)<br>
 In my opinion the best hands-on tutorials for managing a VPS. Think "Setup Docker and Docker Compose on Ubuntu 20.04"
@@ -107,7 +107,7 @@ Build a HTTP server from scratch in Java. Nice if you want to get more low level
 Building circuits & VMs in JS. Crazy stuff
 
 [Book: Crafting Interpreters](https://craftinginterpreters.com/contents.html)<br>
-Accessible introduction to building compilers. This stuff is even relevant for today's front end dev.
+Accessible introduction to building compilers. This stuff is even relevant for today's front end dev. You can read it for free online, but the printed version is beautifully crafted.
 
 [YouTube: Comparing C to machine language](https://www.youtube.com/watch?v=yOyaJXpAYZQ)<br>
 Maybe the inner workings of computers become a little more obvious after watching this video
@@ -118,7 +118,7 @@ Maybe the inner workings of computers become a little more obvious after watchin
 How do important open source projects approach certain problems? Covers different languages
 
 [Book: The Architecture of Open Source Applications](https://aosabook.org/en/index.html)<br>
-Nice high-level descriptions of the architecture of some famous OSS applications
+Nice high-level descriptions of the architecture of some famous OSS applications. Freely accessible
 
 [Open Hub](https://www.openhub.net/)<br>
 Get meta information about OSS projects
